@@ -1,5 +1,5 @@
 # H1 Coordinates not found (Easy, 500p -> xxxp)
----
+
 ## H2 Challenge Description
 Lorem Ipsum
 
