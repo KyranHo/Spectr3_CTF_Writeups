@@ -9,3 +9,5 @@ OS used:
 - Kali Linux 2025.3
 
 Note: Unable to note all hints status (free/paid)
+
+Fairly enjoyed this, considering I'm a complete rookie at CTFs. Had to learn a lot on the go, as well as figuring out things alone as this was my first individual CTF. 
