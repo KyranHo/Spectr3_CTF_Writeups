@@ -1,9 +1,9 @@
-#H1 Coordinates not found (Easy, 500p -> xxxp)
+# H1 Coordinates not found (Easy, 500p -> xxxp)
 ---
-#H2 Challenge Description
+## H2 Challenge Description
 Lorem Ipsum
 
-#H2 Solve
+## H2 Solve
 The photo provided is as shown below. 
 
 ![](./coordinatesNotFound_image.png)
@@ -35,4 +35,4 @@ Here's the janky part after this, none of this worked.
 The final solution was figured after a sanity check via ticket:
 1.406, 103.795
 
-NYP{1.406, 103.795}
+**NYP{1.406, 103.795}**
