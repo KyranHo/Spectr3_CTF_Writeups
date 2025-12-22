@@ -7,12 +7,18 @@ Medium
 
 Hints:
 >https://www.w3.org/Graphics/GIF/spec-gif89a.txt
+
 >https://en.wikipedia.org/wiki/GIF#Animated_GIF
+
 >https://web.archive.org/web/20250822170534/https://www.codeproject.com/Articles/1042433/Manipulating-GIF-Color-Tables
+
 >https://hexed.it/
+
 >When the w3 documentation says "unsigned" what they mean is that field is 2 bytes long and can only be a positive integer.
 >When the w3 documentation says "packed bit field" what they mean is even though that field is one byte, there are actually multiple fields sharing the same byte and they take up a few individual bits in there instead of being like the other fields and taking up whole bytes
+
 >Please think about endianness when reading values. Here is a reference but there are more online: https://ntietz.com/blog/endianness/
+
 >Paid hint: Wait why is the GCT so big when birb doesn't even have that much color?
 
 ## H2 Challenge Description
