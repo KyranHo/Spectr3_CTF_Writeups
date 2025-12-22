@@ -1,4 +1,6 @@
-# H1 Birb Celebrates New Year (Easy, 500p -> xxxp)
+# H1 Birb Celebrates New Year
+
+
 
 ## H2 Challenge Description
 Aw man I love celebrating new years with my best buddy ol' pal my little bird friend his name is birb isn't that cute oh boy oh geez I'm so excited we're gonna do the countdown right now I can't wait oh boy oh brother you ready little guy? three...two...one.....
