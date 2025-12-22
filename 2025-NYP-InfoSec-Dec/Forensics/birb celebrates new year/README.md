@@ -1,4 +1,4 @@
-# H1 Birb Celebrates New Year
+# Birb Celebrates New Year
 Medium
 
 500pts -> 498pts
@@ -21,12 +21,12 @@ Hints:
 
 >Paid hint: Wait why is the GCT so big when birb doesn't even have that much color?
 
-## H2 Challenge Description
+## Challenge Description
 Aw man I love celebrating new years with my best buddy ol' pal my little bird friend his name is birb isn't that cute oh boy oh geez I'm so excited we're gonna do the countdown right now I can't wait oh boy oh brother you ready little guy? three...two...one.....
 
 **NOOOOOOOOOOOOOOOOO WHAT DID THEY DO TO YOU?????**
 
-## H2 Solve
+## Solve
 
 For this challenge, we are given a gif file. 
 

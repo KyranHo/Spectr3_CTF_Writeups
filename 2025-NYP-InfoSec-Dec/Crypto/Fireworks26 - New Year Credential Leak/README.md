@@ -1,15 +1,15 @@
-# H1 Fireworks2026 - New Year Credential Leak
+# Fireworks2026 - New Year Credential Leak
 Very Easy
 
 500pts -> 356pts
 
 18 solves
 
-## H2 Challenge Description
+## Challenge Description
 
 During the New Year 2026 celebration, Fireworks2026 Marketplace accidentally leaked a list of usernames and encrypted passwords from one of its old test servers. Can you find the password of the user "Danial Lim", and successfully decrypt it? Download the leak here. The first user in usernames.txt corresponds to the first password in passwords.txt. The second user corresponds to the second password, and so on.
 
-## H2 Solve
+## Solve
 
 For this challenge, we are given 2 txt files, usernames and passwords. The first thing I tried to do was utilise the user "Danial Lim". 
 

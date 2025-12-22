@@ -1,10 +1,10 @@
-# H1 Name
+# Name
 Difficulty
 
 500pts -> pts
 
 ?? solves
 
-## H2 Challenge Description
+## Challenge Description
 
-## H2 Solve
+## Solve

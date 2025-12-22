@@ -1,4 +1,4 @@
-# H1 Ugly Frog
+# Ugly Frog
 Easy
 
 500pts -> 356pts
@@ -8,10 +8,10 @@ Easy
 Hints:
 >https://infosecwriteups.com/beginners-ctf-guide-finding-hidden-data-in-images-e3be9e34ae0d
 
-## H2 Challenge Description
+## Challenge Description
 Please get me away from it.
 
-## H2 Solve
+## Solve
 File provided was a gif. 
 
 ![](./ugly_frog1.gif)

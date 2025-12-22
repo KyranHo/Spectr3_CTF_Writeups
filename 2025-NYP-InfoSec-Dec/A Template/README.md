@@ -1,4 +1,4 @@
-# H1 Name
+# Name
 Difficulty
 
 500pts -> pts
@@ -8,6 +8,6 @@ Difficulty
 Hints:
 >lorem
 
-## H2 Challenge Description
+## Challenge Description
 
-## H2 Solve
+## Solve

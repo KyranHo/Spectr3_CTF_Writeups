@@ -1,14 +1,14 @@
-# H1 Name
+# Name
 Very Easy
 
 500pts -> 416 pts
 
 14 solves
 
-## H2 Challenge Description
+## Challenge Description
 Happy New Year!
 
-## H2 Solve
+## Solve
 Opening the file, there are 2 words, "New" and "Year" spammed all over. The first thing that comes to mind is binary as it only exists in 0s and 1s. I attempted to convert all "New" into 0s, and "Year" into 1s. 
 
 ```sed s/New/0/g crypto.txt > new_crypto.txt```

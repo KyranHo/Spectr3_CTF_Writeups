@@ -1,16 +1,16 @@
-# H1 A big website with a button In It (Easy, 500p -> xxxp)
+# A big website with a button In It (Easy, 500p -> xxxp)
 Very easy
 
 500pts -> 338pts
 
 19 solves
 
-## H2 Challenge Description
+## Challenge Description
 a big website with one button in it
 
 Note: Site may have been taken down. https://onebutton.nypinfosec.net/
 
-## H2 Solve
+## Solve
 Loading the page shows a.. big white screen with a button just like the challenge name. 
 
 ![](./Button1.png)

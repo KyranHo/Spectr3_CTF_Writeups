@@ -1,14 +1,14 @@
-# H1 Coordinates not found
+# Coordinates not found
 Easy
 
 500pts -> 488pts
 
 6 solves
 
-## H2 Challenge Description
+## Challenge Description
 At first glance, it appears to be a quiet footpath surrounded by dense greenery. But looks can be deceiving. This location sits close to a well-known attraction, visited by thousands, home to thousands, yet rarely examined closely. Your task is to determine exactly where this photo was taken. Not the attraction, not the general area. Submit the precise latitude and longitude coordinates of the camera position. (to 3dp) Flag Format: NYP{latitude, longitude}
 
-## H2 Solve
+## Solve
 The photo provided is as shown below. 
 
 ![](./coordinatesNotFound_image.png)
