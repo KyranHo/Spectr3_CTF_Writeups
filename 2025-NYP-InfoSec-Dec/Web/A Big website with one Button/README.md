@@ -18,6 +18,8 @@ However, this is a false flag.
 
 I dug around the code and only found that it was a fairly simple site with no hidden JS of sorts. So, I attempt a curl on Linux. 
 
+```curl -I https://onebutton.nypinfosec.net/```
+
 ![](./Button3.png)
 
 With that, the flag makes its appearance. 
