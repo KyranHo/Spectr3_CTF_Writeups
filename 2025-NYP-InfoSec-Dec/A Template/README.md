@@ -5,6 +5,9 @@ Difficulty
 
 ?? solves
 
+Hints:
+>lorem
+
 ## H2 Challenge Description
 
 ## H2 Solve

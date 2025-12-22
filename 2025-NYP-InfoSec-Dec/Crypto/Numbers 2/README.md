@@ -1,10 +1,16 @@
-# H1 Name
-Difficulty
+# H1 Numbers 2
+Easy
 
-500pts -> pts
+500pts -> 450 pts
 
-?? solves
+11 solves
 
 ## H2 Challenge Description
+What is a N
 
 ## H2 Solve
+We are given ![](./numbers-2.py)
+
+With that, I created a script to essentially reverse what was done. 
+
+Thus returning the flag: __NYP{SHOULD_HAVE_USED_2**16+1}__

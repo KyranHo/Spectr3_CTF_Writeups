@@ -7,3 +7,5 @@ End: 22 December 2025, 1600
 OS used: 
 - Windows 11
 - Kali Linux 2025.3
+
+Note: Unable to note all hints status (free/paid)
