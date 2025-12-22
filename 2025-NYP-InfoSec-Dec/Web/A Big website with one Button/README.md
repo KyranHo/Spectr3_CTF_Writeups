@@ -3,9 +3,7 @@
 ## H2 Challenge Description
 Lorem Ipsum
 
-Note: Site may have been taken down. 
-
-![](https://onebutton.nypinfosec.net/)
+Note: Site may have been taken down. https://onebutton.nypinfosec.net/
 
 ## H2 Solve
 Loading the page shows a.. big white screen with a button just like the challenge name. 
