@@ -15,6 +15,8 @@ You’re in charge of launching the fireworks for tonight’s New Year’s celeb
 File: https://drive.google.com/file/d/17X13_gI7PKn8wcz40Lq5u2kzl1RunjJt/view?usp=sharing
 
 ## Solve
+Alternate GDrive link for chall.zip: https://drive.google.com/file/d/1d4WOCwojoodBnWYKrtXvexN-OOwT3QhZ/view?usp=sharing
+
 Firstly, a sneak peak into the chall.zip shows that it's a fairly large zip bomb type of challenge. It is highly impractical to look through all the folders and txt files. The first clue was the sticky note, indicating 6, 67, 67. I used these numbers as a file path, accesing following directory:
 
 ```ManifoldingManyFolders6/DelvingDrillingDapperDeeper67/FindMe67.txt```
