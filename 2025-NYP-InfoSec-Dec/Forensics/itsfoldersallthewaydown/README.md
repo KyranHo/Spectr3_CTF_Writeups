@@ -7,6 +7,7 @@ Easy
 
 Hints:
 >The sticky note contains a path
+
 >Paid hint: Use hexedit on the image file
 
 ## Challenge Description
@@ -15,6 +16,8 @@ You’re in charge of launching the fireworks for tonight’s New Year’s celeb
 File: https://drive.google.com/file/d/17X13_gI7PKn8wcz40Lq5u2kzl1RunjJt/view?usp=sharing
 
 ## Solve
+All files that were accessed were uploaded into this repo.
+
 Alternate GDrive link for chall.zip: https://drive.google.com/file/d/1d4WOCwojoodBnWYKrtXvexN-OOwT3QhZ/view?usp=sharing
 
 Firstly, a sneak peak into the chall.zip shows that it's a fairly large zip bomb type of challenge. It is highly impractical to look through all the folders and txt files. The first clue was the sticky note, indicating 6, 67, 67. I used these numbers as a file path, accesing following directory:
@@ -31,6 +34,7 @@ Inside the folder, it will contain:
 Now, to search the text, this is where it got fairly computer resource consuming. 
 
 Warning: Do not run this concurrently with other programs. Additionally, Ctrl + C the moment the second instance has been found and do not let it run in the background. (I did that and my entire computer crashed as 96% of my memory was being used)
+
 ```unzip -Z1 chall.zip | grep '\.txt$' | while read f; do unzip -p chall.zip "$f" 2>/dev/null | grep -oP 'NYPCtF.{16}' && echo "FOUND IN $f" done```
 
 This essentially unzips to stdout and searches for the next 16 after NYPCtF. Additionally, the code will return the file path so that we can access the file later. 
@@ -77,7 +81,7 @@ Now this hexdump is fairly long, and I'm sure there's probably a more efficient 
 
 ![](./folders3.png)
 
-Now, here's where things get strange. Neither of the following flag attempts worked. 
+Now, here's where things get strange. Neither of the following flag attempts worked. (Nothing was strange, I was panicking and desperate, causing brainfart. )
 
 >NYP{]n8lkC>3+?61RI_nVpHNtmYHBmuVUM|:W\c6E$3^_aQ5ldWpd}
 
@@ -89,6 +93,6 @@ After more than 8 hours of pondering, I finally saw it.
 
 ```00002070: a36c 6457 7064 7d00 0202 0202 0202 0300  .ldWpd}.........```
 
-Looking towards the last line, I noticed the empty space tend to be either 0202 or 0300. However, the first "." happens to be a36c. A simple hex conversion returned the "£" symbol, completing my flag at last. 
+Looking towards the last line, I noticed the empty space tend to be either 0202 or 0300. However, the first "." happens to be **a36c**. A hex conversion returned the "£" symbol, completing my flag at last. 
 
-**NYP{]n8lkC>3+?61RI_nVpHNtmYHBmuVUM|:W\c6E$3^_aQ5£ldWpd}**
+**NYP{]n8lkC>3+?61RI_nVpHNtmYHBmuVUM|:W\c6E$3^_aQ5£ldWpd}** (Ye I don't know who decided this mess was a great flag, why you bully me into self-doubt)
