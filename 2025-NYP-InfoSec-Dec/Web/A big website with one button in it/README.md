@@ -1,4 +1,4 @@
-# A big website with a button In It (Easy, 500p -> xxxp)
+# A big website with a button In It
 Very easy
 
 500pts -> 338pts
