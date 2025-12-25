@@ -21,6 +21,6 @@ We are given REVERSE.py for the challenge.
 
 Reading through the code, it's... I suppose fairly easy to just reverse the whole thing. I swapped the + to a - for the first bit (not the randint one) and walah, FLAG!
 
-The script I used is in ![](./reverseReverse.py)
+The script I used is in reverseReverse.py
 
 **NYP{LET_THE_FIREWORKS_BEGIN}**

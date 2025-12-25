@@ -1,0 +1,1 @@
+<!DOCTYPE r [<!ENTITY x SYSTEM "file:///FLAG">]><resolution><resolutionId>&x;</resolutionId><title>1</title><description>1</description></resolution>

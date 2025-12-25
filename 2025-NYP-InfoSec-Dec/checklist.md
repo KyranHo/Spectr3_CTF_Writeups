@@ -1,8 +1,8 @@
 Personal checklist for writeup completion (IGNORE)
 
 Misc
-- Warmup
-- Fireworks
+- Warmup [done]
+- Fireworks [done]
 - Waiting
 - Note to self
 - Cracking
@@ -13,7 +13,7 @@ Web
 - New Year Hidden Gift [done]
 - horse games [done]
 - calculator [done]
-- xxNewYearsxx
+- xxNewYearsxx [done]
 
 crypto
 - fireworks2026 [done]
@@ -28,7 +28,7 @@ forensics
 - golden countdown
 - lcr
 - birb [done]
-- powersploit
+- powersploit [needs network, not done]
 - folderspam [done]
 
 osint
@@ -42,4 +42,4 @@ rev
 - mdinight xor
 
 pwn
-- freepwn
+- freepwn [done]

@@ -1,0 +1,6 @@
+python3 - << 'EOF'
+from pwn import *
+print(b"A"*40 + p64(0x4141414141414141))
+EOF
+
+#Output: b'AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA'
