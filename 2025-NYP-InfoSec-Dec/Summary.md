@@ -10,4 +10,8 @@ OS used:
 
 Note: Unable to note all hints status (free/paid)
 
-Fairly enjoyed this, considering I'm a complete rookie at CTFs. Had to learn a lot on the go, as well as figuring out things alone as this was my first individual CTF. 
+All challenges are listed in Challenge.md
+
+Do note not all solutions are provided as I can't solve most of them ;-;
+
+Noneteless, fairly enjoyed this, considering I'm a complete rookie at CTFs. Had to learn a lot on the go, as well as figuring out things alone as this was my first individual CTF. 

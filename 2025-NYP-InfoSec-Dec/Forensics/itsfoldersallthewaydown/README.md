@@ -95,4 +95,6 @@ After more than 8 hours of pondering, I finally saw it.
 
 Looking towards the last line, I noticed the empty space tend to be either 0202 or 0300. However, the first "." happens to be **a36c**. A hex conversion returned the "£" symbol, completing my flag at last. 
 
-**NYP{]n8lkC>3+?61RI_nVpHNtmYHBmuVUM|:W\c6E$3^_aQ5£ldWpd}** (Ye I don't know who decided this mess was a great flag, why you bully me into self-doubt)
+**NYP{]n8lkC>3+?61RI_nVpHNtmYHBmuVUM|:W\c6E$3^_aQ5£ldWpd}** 
+
+(Ye I don't know who decided this mess was a great flag, why you bully me into self-doubt)
